@@ -1,2 +1,8 @@
 # Python-Beginner-Projects
-A simple calculator built using python that performs basic arithmetic operators such as addition, subtraction, multiplication, and division.
+A collection of beginner-friendly python projects created while learning python.
+
+## Projects
+### 1. Simple Calculator
+A basic calculator that performs arithmetic operations.
+### 2. Weight Converter 
+A simple program that converts weights between different units.

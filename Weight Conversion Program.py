@@ -1,4 +1,4 @@
-# python weight converter
+# python weight conversion program
 
 weight = float(input("Enter your weight: "))
 unit = input("Enter the unit (kilograms/pounds): ")

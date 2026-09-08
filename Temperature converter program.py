@@ -1,4 +1,4 @@
-# Temperature converter program
+# Temperature conversion program
 
 unit = input("Enter the unit (Celsius (C) / Fahrenheit (F)): ")
 temperature = float(input("Enter the temperature: "))
